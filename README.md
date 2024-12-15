@@ -6,4 +6,4 @@ Az elemzés 9 db európai terror cselekmény helyi tőzsdeindexre gyakorolt hat�
   * a "market model"-lel számolt várható hozamok. A piaci referencia hozamok a STOXX 600 index és az MSCI Europe index.
   * "mean method":becslési időszak alatti átlaghozam (az adott tőzsdeindex saját átlaghozama)
 
-Készítette: Csada Richárd, Hajdú Márk, Szabó Balázs, Korsós Zoltán
+Készítette: Csada Richárd, Hajdú Márk, Korsós Zoltán, Szabó Balázs
